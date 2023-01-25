@@ -1,6 +1,5 @@
-const { inputToConfig } = require("@ethereum-waffle/compiler")
 const { assert, expect } = require("chai")
-const { network, deployments, ethers, getNamedAccounts } = require("hardhat")
+const { network, deployments, ethers } = require("hardhat")
 const { developmentChains, networkConfig } = require("../../helper-hardhat-config")
 
 !developmentChains.includes(network.name)
