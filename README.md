@@ -3,7 +3,7 @@
 </h1>
 
 <br/>
-
+ 
 <p align="center">
 <img src="./images/randomNft/pug.png" width="225" alt="NFT Pug">
 <img src="./images/randomNft/shiba-inu.png" width="225" alt="NFT Shiba">
